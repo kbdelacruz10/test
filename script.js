@@ -1,4 +1,4 @@
-// SCROLL REVEAL
+// SCROLL REVEALsdsad
 const reveals = document.querySelectorAll(".reveal");
 
 window.addEventListener("scroll", () => {
